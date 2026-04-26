@@ -13,3 +13,23 @@ Botão Hover → #E75A45 (um vermelho mais vibrante para feedback visual)
 Detalhes/Links → #F4C361 (amarelo pastel para chamar atenção em ícones ou links)
 
 
+    <div class="card h-100 shadow-sm">
+                <img src="./image/logo.png">
+
+                <div class="card-body">
+                    <h5 class="card-title"></h5>
+                    <h6 class="text-muted"></h6>
+
+                    <p></p>
+                </div>
+
+                <div class="card-footer d-flex justify-content-between">
+                    <button class="btn btn-warning btn-sm">
+                        Editar
+                    </button>
+
+                    <button class="btn btn-danger btn-sm">
+                        Excluir
+                    </button>
+                </div>
+            </div>
